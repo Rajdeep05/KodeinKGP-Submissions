@@ -1,0 +1,13 @@
+    body{
+        background-color: rgb(164, 203, 139);
+        text-align: center;
+    }
+    #demobutton{
+        background-color: rgb(79, 184, 188);
+        text-align: center;
+        text-decoration-style: wavy;
+        text-shadow: 0ch;
+        border-color: blue;
+        color: white;
+    }
+    
